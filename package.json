@@ -14,7 +14,7 @@
     "simple-git": "^2.42.0"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.24",
+    "@types/jest": "^27.0.2",
     "@types/minimatch": "^3.0.5",
     "@types/node": "^12.20.19",
     "jest": "^26.6.3",
